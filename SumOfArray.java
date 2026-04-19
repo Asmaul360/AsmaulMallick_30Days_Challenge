@@ -24,7 +24,7 @@
 
 import java.util.*;
 
-public class Main {
+public class SumOfArray {
 
     // Function to calculate sum of array
     public static int simpleArraySum(int[] arr) {
