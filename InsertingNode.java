@@ -12,7 +12,7 @@ class DoublyLinkedListNode {
     }
 }
 
-public class Solution {
+public class InsertingNode{
 
     // Function to insert in sorted doubly linked list
     static DoublyLinkedListNode sortedInsert(DoublyLinkedListNode head, int data) {
